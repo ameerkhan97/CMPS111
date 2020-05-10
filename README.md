@@ -1,8 +1,8 @@
 # Operating Systems (CMPS111)
 
 ### Lab1
-  * Implementing a more efficient version of the Pintos system call timer_sleep
+  * Implemented a more efficient version of the Pintos system call timer_sleep
 ### Lab2
-  * Implementing priority based thread scheduling for Pintos
+  * Implemented priority based thread scheduling for Pintos
 ### Lab3
-  * Implementing user processes and system calls
+  * Implemented user processes and system calls
